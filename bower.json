@@ -1,0 +1,20 @@
+{
+  "name": "elapsed.js",
+  "version": "0.0.1",
+  "authors": [
+    "Merrick Christensen <merrick.christensen@gmail.com>"
+  ],
+  "description": "A little timer manager.",
+  "main": "src/Elapsed.js",
+  "keywords": [
+    "timer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
